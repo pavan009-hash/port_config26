@@ -6,13 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		015F13EC2F434AD100949A31 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 015F13EB2F434AD100949A31 /* Launch Screen.storyboard */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		010DF89A2EE984AE008C4F0F /* P_test1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = P_test1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		015F13EB2F434AD100949A31 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,7 +32,6 @@
 		010DF8912EE984AE008C4F0F = {
 			isa = PBXGroup;
 			children = (
-				015F13EB2F434AD100949A31 /* Launch Screen.storyboard */,
 				010DF89C2EE984AE008C4F0F /* P_test1 */,
 				010DF89B2EE984AE008C4F0F /* Products */,
 			);
@@ -115,7 +109,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				015F13EC2F434AD100949A31 /* Launch Screen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
